@@ -1,0 +1,23 @@
+HTTP/1.1 200 
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Set-Cookie: JSESSIONID=282D55E8A0D8DF29B9FA4CE54998780A; Path=/; HttpOnly
+Content-Type: application/json;charset=UTF-8
+Content-Length: 153
+Date: Mon, 21 Aug 2023 13:06:08 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "access_token": "b1de09b1-747e-46f6-ac7d-61af9e6f5e5a",
+    "token_type": "bearer",
+    "refresh_token": "bfe98986-907a-4b2d-aa4f-e7c938af6e58",
+    "expires_in": 1295999
+}

@@ -1,0 +1,59 @@
+HTTP/1.1 200 
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Set-Cookie: JSESSIONID=4EBCBC45E9368F87C785B0FCAF456AA2; Path=/; HttpOnly
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Mon, 21 Aug 2023 13:15:42 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "records": [
+        {
+            "id": 1,
+            "title": "华润商品11112",
+            "shopId": 1,
+            "status": 2,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2019-04-18 14:27:02",
+            "updateTime": "2023-08-20 16:42:39",
+            "deleteTime": null
+        },
+        {
+            "id": 292,
+            "title": "接口-Sx",
+            "shopId": 1,
+            "status": 2,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2023-08-21 21:15:40",
+            "updateTime": "2023-08-21 21:15:40",
+            "deleteTime": null
+        }
+    ],
+    "total": 108,
+    "size": 2,
+    "current": 1,
+    "orders": [
+        
+    ],
+    "optimizeCountSql": true,
+    "hitCount": false,
+    "countId": null,
+    "maxLimit": null,
+    "searchCount": true,
+    "pages": 54
+}

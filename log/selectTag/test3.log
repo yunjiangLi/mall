@@ -1,0 +1,46 @@
+HTTP/1.1 200 
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Set-Cookie: JSESSIONID=CED4A6BEE6DBCD8A99AB2306B1B8725E; Path=/; HttpOnly
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Mon, 21 Aug 2023 13:55:11 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "records": [
+        {
+            "id": 309,
+            "title": "接口-xK",
+            "shopId": 1,
+            "status": 2,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2023-08-21 21:55:12",
+            "updateTime": "2023-08-21 21:55:12",
+            "deleteTime": null
+        }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [
+        
+    ],
+    "optimizeCountSql": true,
+    "hitCount": false,
+    "countId": null,
+    "maxLimit": null,
+    "searchCount": true,
+    "pages": 1
+}

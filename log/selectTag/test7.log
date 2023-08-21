@@ -1,0 +1,163 @@
+HTTP/1.1 200 
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Set-Cookie: JSESSIONID=E0749218D792E2FD636AD5D94C70E16A; Path=/; HttpOnly
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Mon, 21 Aug 2023 13:55:07 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "records": [
+        {
+            "id": 1,
+            "title": "华润商品11112",
+            "shopId": 1,
+            "status": 2,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2019-04-18 14:27:02",
+            "updateTime": "2023-08-20 16:42:39",
+            "deleteTime": null
+        },
+        {
+            "id": 64,
+            "title": "厨房用品",
+            "shopId": 1,
+            "status": 1,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2023-06-29 09:49:01",
+            "updateTime": "2023-06-29 09:49:01",
+            "deleteTime": null
+        },
+        {
+            "id": 306,
+            "title": "接口-or",
+            "shopId": 1,
+            "status": 2,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2023-08-21 21:55:08",
+            "updateTime": "2023-08-21 21:55:08",
+            "deleteTime": null
+        },
+        {
+            "id": 65,
+            "title": "生鲜",
+            "shopId": 1,
+            "status": 1,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 1,
+            "createTime": "2023-06-29 09:49:43",
+            "updateTime": "2023-08-04 13:04:39",
+            "deleteTime": null
+        },
+        {
+            "id": 66,
+            "title": "收纳用品",
+            "shopId": 1,
+            "status": 1,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2023-06-29 10:18:22",
+            "updateTime": "2023-08-02 15:30:00",
+            "deleteTime": null
+        },
+        {
+            "id": 33,
+            "title": "家居好物",
+            "shopId": 1,
+            "status": 1,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2023-06-13 10:20:53",
+            "updateTime": "2023-08-02 15:29:35",
+            "deleteTime": null
+        },
+        {
+            "id": 7,
+            "title": "假一赔十",
+            "shopId": 1,
+            "status": 1,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2022-12-03 15:35:52",
+            "updateTime": "2023-08-02 15:30:33",
+            "deleteTime": null
+        },
+        {
+            "id": 114,
+            "title": "好利来",
+            "shopId": 1,
+            "status": 1,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 1,
+            "createTime": "2023-08-04 13:05:30",
+            "updateTime": "2023-08-04 13:05:54",
+            "deleteTime": null
+        },
+        {
+            "id": 154,
+            "title": "华润商品",
+            "shopId": 1,
+            "status": 2,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2023-08-10 19:28:08",
+            "updateTime": "2023-08-10 19:28:08",
+            "deleteTime": null
+        },
+        {
+            "id": 22,
+            "title": "七天无理由退货",
+            "shopId": 1,
+            "status": 1,
+            "isDefault": 0,
+            "prodCount": 0,
+            "seq": 0,
+            "style": 0,
+            "createTime": "2023-03-10 09:20:25",
+            "updateTime": "2023-08-02 15:30:48",
+            "deleteTime": null
+        }
+    ],
+    "total": 120,
+    "size": 10,
+    "current": 1,
+    "orders": [
+        
+    ],
+    "optimizeCountSql": true,
+    "hitCount": false,
+    "countId": null,
+    "maxLimit": null,
+    "searchCount": true,
+    "pages": 12
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="测试套件" >
+    <test name="测试">
+        <classes>
+            <class name="com.caseTest.MAllLoginTest"/>
+            <class name="com.caseTest.MallTagTest.MAllCreatTagTest"/>
+            <class name="com.caseTest.MallTagTest.MallSelectTagTest"/>
+           <class name="com.caseTest.MallTagTest.MAllUpdateTagTest"/>
+           <class name="com.caseTest.MallTagTest.MallDropTagTest"/>
+        </classes>
+    </test>
+</suite>
